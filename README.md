@@ -1,5 +1,5 @@
 # Early-Childhood-Development-Hackathon
-Hackathon: Early Childhood Development
+## DataDrive2030: Positive Deviance Project
 Hackathon: Early Childhood Development
 DataDrive2030 is offering an exciting opportunity to analyse a rich child outcomes dataset of over 15000 South African children (aged 50-69 months).
 
