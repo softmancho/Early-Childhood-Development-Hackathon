@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# large file
+DataDrive2030_PD_EXTERNAL.dta
